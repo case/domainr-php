@@ -18,7 +18,7 @@ class Domainr {
   const BASE_URI = "https://api.domainr.com/v1";
   
   // Client ID. See https://github.com/kflorence/domainr-php/issues/2
-  const CLIENT_ID = "php_kflorence";
+  const CLIENT_ID = "{your-mashape-key}";
 
   // Contains all the valid methods for each API
   private $apis = array(
